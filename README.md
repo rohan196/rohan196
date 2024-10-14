@@ -2,8 +2,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ======================================================================================================================================
 <h4>A Full-Stack developer | MERN Stack</h4>
 
-- 🔭 I’m currently working on a MERN Project
-- 💬 Ask me about Technology
+- 🔭 I’m an ambitious MERN Stack Developer
+- 💬 Ask me about Technology...
 - 📫 How to reach me: rajputrohan196@outlook.com
 - ⚡ Fun fact: I'm a B.Tech graduate in Computer Science
 
